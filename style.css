@@ -10,7 +10,6 @@ body {
 .background{
     width: 100vw;
     height: 800px;
-
 }
 
 .background-image {
@@ -20,7 +19,6 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     height: 640px;
-
 }
 
 .seperation {
@@ -93,7 +91,6 @@ body {
     display: flex;
     justify-content: center;
     margin: 20px 20px 0px 0px;
-
 }
 
 .input-text-button input {
@@ -118,10 +115,6 @@ body {
     font-size: 24px;
     font-weight: 700;
 }
-
-
-
-
 
 .part {
     height: 85vh;
@@ -151,7 +144,6 @@ body {
     right: 100px;
     bottom: 140px;
     z-index: -1;
-
 }
 
 
@@ -169,20 +161,15 @@ body {
     font-size: 42px;
     font-weight: 900;
     padding-bottom: 20px;
-
 }
 
 .part-text .part-text-2 {
-
     font-size: 22px;
     line-height: 18px;
-
-
 }
 
 .part-text .part-text-3 {
     font-size: 22px;
-
 }
 
 .part-2 .image-strange img {
@@ -217,12 +204,6 @@ body {
     position: absolute;
     left: 307px;
     bottom: 37px;
-
-
-}
-
-.part-2 {
-    /* position: relative; */
 }
 
 .image-s .image img {
@@ -233,8 +214,6 @@ body {
 .image-girl {
     position: relative;
 }
-
-
 
 .image-s .text-strange .downloading {
     color: rgba(63, 63, 243, 0.98);
@@ -249,8 +228,6 @@ body {
     font-size: 15px;
 }
 
-
-
 .part-3 .part-text {
     font-family: 'Poppins', sans-serif;
     display: flex;
@@ -259,10 +236,6 @@ body {
     align-items: flex-start;
 
 }
-
-
-
-
 
 .part-3 .image-video-1 .image {
     width: 650px;
@@ -365,10 +338,7 @@ body {
     gap: 150px;
     padding-right: 180px;
     padding-top: 90px;
-
 }
-
-.footer .list-1 {}
 
 .footer a {
     color: rgb(148, 147, 147);
